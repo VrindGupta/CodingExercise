@@ -25,7 +25,7 @@ as 123 + 1 = 124.
 
     NOTE: You only need to implement the given function. Do not read input,
     instead use the arguments to the function. Do not print the output, instead return values as specified.
-    
+
  */
 package InterViewBit;
 
